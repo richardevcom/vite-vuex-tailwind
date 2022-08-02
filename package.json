@@ -1,6 +1,6 @@
 {
     "name": "vite-vue3-boilerplate",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
