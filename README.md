@@ -1,3 +1,4 @@
+![Maintenance](https://img.shields.io/maintenance/no/2022?label=Maintained%3F&style=for-the-badge)
 # Vite + Vuex + Tailwind CSS (boilerplate)
 
 ### ⚠️ We have moved to another [Vue 3 boilerplate + Vite, Pinia, Vue Router & Tailwind CSS](https://github.com/richardevcom/vue3-boilerplate) - this package is not maintained anymore.
